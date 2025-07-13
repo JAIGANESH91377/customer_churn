@@ -43,8 +43,6 @@ Model Stacking for improved accuracy.
 
 Deployment: Real-time interaction through a basic HTML UI.
 
-📷 Screenshots
-(Add UI screenshots or Jupyter output images here if available)
 
 🚀 How to Run
 Clone the repository:
@@ -52,8 +50,8 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/customer-churn-analysis.git
-cd customer-churn-analysis
+git clone https://github.com/JAIGANESH91377/customer_churn.git
+cd customer_churn
 Install required packages:
 
 bash
